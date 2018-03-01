@@ -1,0 +1,11 @@
+.page3 {
+  background-color:#41f4be;
+  color:black;
+  font-size: 36px;
+  display:grid;
+}
+
+.page3_bear {
+    width: 15%;
+    height: 50%;
+}
